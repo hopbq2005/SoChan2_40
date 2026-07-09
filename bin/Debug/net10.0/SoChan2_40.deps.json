@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SoChan2_40/1.0.0": {
+        "runtime": {
+          "SoChan2_40.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoChan2_40/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
