@@ -12,3 +12,4 @@ C:\Users\hopbq\Documents\SoChan2_40\obj\Debug\net10.0\refint\SoChan2_40.dll
 C:\Users\hopbq\Documents\SoChan2_40\obj\Debug\net10.0\SoChan2_40.pdb
 C:\Users\hopbq\Documents\SoChan2_40\obj\Debug\net10.0\SoChan2_40.genruntimeconfig.cache
 C:\Users\hopbq\Documents\SoChan2_40\obj\Debug\net10.0\ref\SoChan2_40.dll
+C:\Users\hopbq\Documents\SoChan2_40\obj\Debug\net10.0\SoChan2_40.sourcelink.json
